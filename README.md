@@ -37,7 +37,7 @@ I created dynamic dashboards to allow stakeholders to filter data by:
 ### Repository Contents
 Since this repository serves as a **portfolio showcase**, it focuses on the analytical outputs and reports rather than the raw codebase.
 
-* **`Project_Report.pdf`**: The comprehensive analysis report detailing all findings, methodology, and visual results.
+* **[Project_Report.pdf](Project_Report.pdf)**: The comprehensive analysis report detailing all findings, methodology, and visual results.
 
 ### Project Visuals
 Below are the key visualizations derived from the analysis:
